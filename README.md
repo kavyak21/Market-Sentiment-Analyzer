@@ -16,25 +16,15 @@ The system visualizes sentiment trends through an interactive **Streamlit dashbo
 ---
 
 ## 🏗️ Project Structure
-Market Sentiment Analyzer/
-│── app.py # FastAPI backend
-│── sentiment_model.py # FinBERT-based sentiment inference logic
-│── text_cleaner.py # Text preprocessing & cleaning
-│── mock_stream.py # Simulated real-time data stream
-│── dashboard.py # Streamlit dashboard
-│── requirements.txt # Project dependencies
-│── README.md # Project documentation
-│── venv/ # Virtual environment (not committed)
+Market-Sentiment-Analyzer/
+    app.py             # FastAPI backend
+    sentiment_model.py # FinBERT-based sentiment inference logic
+    text_cleaner.py    # Text preprocessing & cleaning
+    mock_stream.py     # Simulated real-time data stream
+    dashboard.py       # Streamlit dashboard
+    requirements.txt   # Project dependencies
+    README.md          # Project documentation
 
-## 🏗️ Project Structure
-Market-Sentiment-Analyzer
-|-- app.py # FastAPI backend
-|-- sentiment_model.py # FinBERT-based sentiment inference logic
-|-- text_cleaner.py # Text preprocessing & cleaning
-|-- mock_stream.py # Simulated real-time data stream
-|-- dashboard.py # Streamlit dashboard
-|-- requirements.txt # Project dependencies
-|-- README.md # Project documentation
 ---
 
 ## 🧠 Sentiment Analysis Model
