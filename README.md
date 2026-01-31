@@ -27,16 +27,15 @@ Market Sentiment Analyzer/
 │── venv/ # Virtual environment (not committed)
 
 ## 🏗️ Project Structure
-
 Market-Sentiment-Analyzer/
-├── app.py             # FastAPI backend
-├── sentiment_model.py # FinBERT-based sentiment inference logic
-├── text_cleaner.py    # Text preprocessing & cleaning
-├── mock_stream.py     # Simulated real-time data stream
-├── dashboard.py       # Streamlit dashboard
-├── requirements.txt   # Project dependencies
-├── README.md          # Project documentation
-└── venv/              # Virtual environment (not committed)
+├── app.py
+├── sentiment_model.py
+├── text_cleaner.py
+├── mock_stream.py
+├── dashboard.py
+├── requirements.txt
+├── README.md
+└── venv/
 
 ---
 
