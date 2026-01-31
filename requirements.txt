@@ -1,0 +1,12 @@
+tweepy
+praw
+fastapi
+uvicorn
+transformers
+torch
+streamlit
+pandas
+nltk
+sqlite3
+streamlit-autorefresh
+matplotlib
